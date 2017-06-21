@@ -1,0 +1,389 @@
+{
+  "session": {
+    "sessionId": "SessionId.29666046-4e56-4569-8715-6ae3dcf02aa8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4d9a1496-ea78-4c99-88c2-3a6786603aa8"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFBHF7KDDI5JCRO5SYDG4ARW3RZUE3RXCRNO4NEEVYMTT6DSHRY7HTSDGGW6FIHC54JIRS5RR3BTUQ76NJAHXTSHI6DZBK4INPRAW6J5YFEMXQCHRUTRKMBBOZLXY2BYVSUKBOWKFXKVSWADOZYNYPUKBLZG6L4RTXR3FCB3YQ62OZ25BP5MYIEDS2N2YP2FMTMOJJCPYUI7YMQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.f5aa5f01-2004-4a5a-a87c-c64ed431f67e",
+    "locale": "en-US",
+    "timestamp": "2017-02-27T10:58:49Z",
+    "intent": {
+      "name": "GetHelpIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "<speak>Call 911</speak>"
+    },
+    "card": {
+      "content": "SessionSpeechlet - <speak>Call 911</speak>",
+      "title": "SessionSpeechlet - GetHelpIntent",
+      "type": "Simple"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak>Call 911</speak>"
+      }
+    },
+    "shouldEndSession": false
+  },
+  "sessionAttributes": {}
+}
+{
+  "session": {
+    "sessionId": "SessionId.29666046-4e56-4569-8715-6ae3dcf02aa8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4d9a1496-ea78-4c99-88c2-3a6786603aa8"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFBHF7KDDI5JCRO5SYDG4ARW3RZUE3RXCRNO4NEEVYMTT6DSHRY7HTSDGGW6FIHC54JIRS5RR3BTUQ76NJAHXTSHI6DZBK4INPRAW6J5YFEMXQCHRUTRKMBBOZLXY2BYVSUKBOWKFXKVSWADOZYNYPUKBLZG6L4RTXR3FCB3YQ62OZ25BP5MYIEDS2N2YP2FMTMOJJCPYUI7YMQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.7e56e7d9-7af3-4c83-8383-ef479aceec52",
+    "locale": "en-US",
+    "timestamp": "2017-02-27T10:59:32Z",
+    "intent": {
+      "name": "GetHelpIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "<speak>Call 911</speak>"
+    },
+    "card": {
+      "content": "SessionSpeechlet - <speak>Call 911</speak>",
+      "title": "SessionSpeechlet - GetHelpIntent",
+      "type": "Simple"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak>Call 911</speak>"
+      }
+    },
+    "shouldEndSession": false
+  },
+  "sessionAttributes": {}
+}
+{
+  "session": {
+    "sessionId": "SessionId.29666046-4e56-4569-8715-6ae3dcf02aa8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4d9a1496-ea78-4c99-88c2-3a6786603aa8"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFBHF7KDDI5JCRO5SYDG4ARW3RZUE3RXCRNO4NEEVYMTT6DSHRY7HTSDGGW6FIHC54JIRS5RR3BTUQ76NJAHXTSHI6DZBK4INPRAW6J5YFEMXQCHRUTRKMBBOZLXY2BYVSUKBOWKFXKVSWADOZYNYPUKBLZG6L4RTXR3FCB3YQ62OZ25BP5MYIEDS2N2YP2FMTMOJJCPYUI7YMQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.928a7da9-190c-4db0-a0c3-a4cb388f4876",
+    "locale": "en-US",
+    "timestamp": "2017-02-27T11:03:47Z",
+    "intent": {
+      "name": "GetCPRHelpIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "I will help you with CPR, step by step <break time='0.5s'/>lay the person on a firm, flat surface <break time='0.5s'/>you will give 30 chest compressions <break time='0.5s'/>Push hard, push fast in the middle of the chest at least two inches deep, and at least hundred compressions per minute <break time='0.5s'/>when you are ready to begin, say 'ready'  <break time='0.5s'/>when you are done with 30 compressions, say 'done'</speak>"
+    },
+    "card": {
+      "content": "SessionSpeechlet - I will help you with CPR, step by step <break time='0.5s'/>lay the person on a firm, flat surface <break time='0.5s'/>you will give 30 chest compressions <break time='0.5s'/>Push hard, push fast in the middle of the chest at least two inches deep, and at least hundred compressions per minute <break time='0.5s'/>when you are ready to begin, say 'ready'  <break time='0.5s'/>when you are done with 30 compressions, say 'done'</speak>",
+      "title": "SessionSpeechlet - GetCPRHelpIntent",
+      "type": "Simple"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML"
+      }
+    },
+    "shouldEndSession": false
+  },
+  "sessionAttributes": {
+    "onCPR": "c",
+    "rep": 0
+  }
+}
+{
+  "session": {
+    "sessionId": "SessionId.29666046-4e56-4569-8715-6ae3dcf02aa8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4d9a1496-ea78-4c99-88c2-3a6786603aa8"
+    },
+    "attributes": {
+      "onCPR": "c",
+      "rep": 0
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AFBHF7KDDI5JCRO5SYDG4ARW3RZUE3RXCRNO4NEEVYMTT6DSHRY7HTSDGGW6FIHC54JIRS5RR3BTUQ76NJAHXTSHI6DZBK4INPRAW6J5YFEMXQCHRUTRKMBBOZLXY2BYVSUKBOWKFXKVSWADOZYNYPUKBLZG6L4RTXR3FCB3YQ62OZ25BP5MYIEDS2N2YP2FMTMOJJCPYUI7YMQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.b784c871-9d82-48b3-aa78-6fbff5571f6f",
+    "locale": "en-US",
+    "timestamp": "2017-02-27T11:04:03Z",
+    "intent": {
+      "name": "CommandIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "<speak>when you are done with 30 compressions, say 'done'<audio src='https://s3.amazonaws.com/feenamsample/test.mp3'/></speak>"
+    },
+    "card": {
+      "content": "SessionSpeechlet - <speak>when you are done with 30 compressions, say 'done'<audio src='https://s3.amazonaws.com/feenamsample/test.mp3'/></speak>",
+      "title": "SessionSpeechlet - CommandIntent",
+      "type": "Simple"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak>when you are done with 30 compressions, say 'done'</speak>"
+      }
+    },
+    "shouldEndSession": false
+  },
+  "sessionAttributes": {
+    "onCPR": "b",
+    "rep": 0
+  }
+}
+{
+  "session": {
+    "sessionId": "SessionId.29666046-4e56-4569-8715-6ae3dcf02aa8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4d9a1496-ea78-4c99-88c2-3a6786603aa8"
+    },
+    "attributes": {
+      "onCPR": "b",
+      "rep": 0
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AFBHF7KDDI5JCRO5SYDG4ARW3RZUE3RXCRNO4NEEVYMTT6DSHRY7HTSDGGW6FIHC54JIRS5RR3BTUQ76NJAHXTSHI6DZBK4INPRAW6J5YFEMXQCHRUTRKMBBOZLXY2BYVSUKBOWKFXKVSWADOZYNYPUKBLZG6L4RTXR3FCB3YQ62OZ25BP5MYIEDS2N2YP2FMTMOJJCPYUI7YMQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.8387ef50-75ee-479e-8ac2-3f34a5e725ff",
+    "locale": "en-US",
+    "timestamp": "2017-02-27T11:04:13Z",
+    "intent": {
+      "name": "CommandIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "<speak>tilt the head back and lift the chin up <break time='0.5s'/>pinch the nose shut then make a complete seal over the person's mouth <break time='0.5s'/>blow in for about 1 second to make the chest clearly rise <break time='0.5s'/>give rescue breaths, one after other  <break time='0.5s'/>when are done with rescue breaths, say 'done'</speak>"
+    },
+    "card": {
+      "content": "SessionSpeechlet - <speak>tilt the head back and lift the chin up <break time='0.5s'/>pinch the nose shut then make a complete seal over the person's mouth <break time='0.5s'/>blow in for about 1 second to make the chest clearly rise <break time='0.5s'/>give rescue breaths, one after other  <break time='0.5s'/>when are done with rescue breaths, say 'done'</speak>",
+      "title": "SessionSpeechlet - CommandIntent",
+      "type": "Simple"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak>when are done with rescue breaths, say 'done'</speak>"
+      }
+    },
+    "shouldEndSession": false
+  },
+  "sessionAttributes": {
+    "onCPR": "c",
+    "rep": 1
+  }
+}
+{
+  "session": {
+    "sessionId": "SessionId.29666046-4e56-4569-8715-6ae3dcf02aa8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4d9a1496-ea78-4c99-88c2-3a6786603aa8"
+    },
+    "attributes": {
+      "onCPR": "c",
+      "rep": 1
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AFBHF7KDDI5JCRO5SYDG4ARW3RZUE3RXCRNO4NEEVYMTT6DSHRY7HTSDGGW6FIHC54JIRS5RR3BTUQ76NJAHXTSHI6DZBK4INPRAW6J5YFEMXQCHRUTRKMBBOZLXY2BYVSUKBOWKFXKVSWADOZYNYPUKBLZG6L4RTXR3FCB3YQ62OZ25BP5MYIEDS2N2YP2FMTMOJJCPYUI7YMQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.c48a4e65-ea5e-4f5d-829b-0704991f7cd2",
+    "locale": "en-US",
+    "timestamp": "2017-02-27T11:04:21Z",
+    "intent": {
+      "name": "CommandIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "<speak>when you are done with 30 compressions, say 'done'<audio src='https://s3.amazonaws.com/feenamsample/test.mp3'/></speak>"
+    },
+    "card": {
+      "content": "SessionSpeechlet - <speak>when you are done with 30 compressions, say 'done'<audio src='https://s3.amazonaws.com/feenamsample/test.mp3'/></speak>",
+      "title": "SessionSpeechlet - CommandIntent",
+      "type": "Simple"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak>when you are done with 30 compressions, say 'done'</speak>"
+      }
+    },
+    "shouldEndSession": false
+  },
+  "sessionAttributes": {
+    "onCPR": "b",
+    "rep": 1
+  }
+}
+{
+  "session": {
+    "sessionId": "SessionId.29666046-4e56-4569-8715-6ae3dcf02aa8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4d9a1496-ea78-4c99-88c2-3a6786603aa8"
+    },
+    "attributes": {
+      "onCPR": "b",
+      "rep": 1
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AFBHF7KDDI5JCRO5SYDG4ARW3RZUE3RXCRNO4NEEVYMTT6DSHRY7HTSDGGW6FIHC54JIRS5RR3BTUQ76NJAHXTSHI6DZBK4INPRAW6J5YFEMXQCHRUTRKMBBOZLXY2BYVSUKBOWKFXKVSWADOZYNYPUKBLZG6L4RTXR3FCB3YQ62OZ25BP5MYIEDS2N2YP2FMTMOJJCPYUI7YMQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.c79d5040-5986-4ffe-8c90-d22a7da6010e",
+    "locale": "en-US",
+    "timestamp": "2017-02-27T11:04:46Z",
+    "intent": {
+      "name": "FinishIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "<speak>Are you sure you want to stop?</speak>"
+    },
+    "card": {
+      "content": "SessionSpeechlet - <speak>Are you sure you want to stop?</speak>",
+      "title": "SessionSpeechlet - FinishIntent",
+      "type": "Simple"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML"
+      }
+    },
+    "shouldEndSession": false
+  },
+  "sessionAttributes": {}
+}
+{
+  "session": {
+    "sessionId": "SessionId.29666046-4e56-4569-8715-6ae3dcf02aa8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.4d9a1496-ea78-4c99-88c2-3a6786603aa8"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFBHF7KDDI5JCRO5SYDG4ARW3RZUE3RXCRNO4NEEVYMTT6DSHRY7HTSDGGW6FIHC54JIRS5RR3BTUQ76NJAHXTSHI6DZBK4INPRAW6J5YFEMXQCHRUTRKMBBOZLXY2BYVSUKBOWKFXKVSWADOZYNYPUKBLZG6L4RTXR3FCB3YQ62OZ25BP5MYIEDS2N2YP2FMTMOJJCPYUI7YMQ"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.2841cde9-4612-4f92-97d6-c0f1a4aa156f",
+    "locale": "en-US",
+    "timestamp": "2017-02-27T11:05:04Z",
+    "intent": {
+      "name": "YesIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "SSML",
+      "ssml": "<speak>good bye</speak>"
+    },
+    "card": {
+      "content": "SessionSpeechlet - <speak>good bye</speak>",
+      "title": "SessionSpeechlet - YesIntent",
+      "type": "Simple"
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "SSML"
+      }
+    },
+    "shouldEndSession": true
+  },
+  "sessionAttributes": {}
+}

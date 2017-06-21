@@ -1,0 +1,2 @@
+# First Aid
+First Aid provides basic first aid information via Amazon Alexa. This app uses the information from the Red Cross' Adult First Aid Reference. This app uses T-Shaped design and while it has options for various first aid situations, only assistance for CPR is implemented. (other options will be responded with "call 911").

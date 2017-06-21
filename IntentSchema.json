@@ -1,0 +1,61 @@
+{
+   "intents": [
+      {
+         "intent": "GetHelpIntent"
+      },
+     {
+       "intent": "GetCPRHelpIntent"
+     },
+     {
+       "intent": "GetChokingIntent"
+     },
+     {
+       "intent": "GetChokingTypeIntent",
+       "slots": [
+         {
+           "name": "ChokingType",
+           "type": "LIST_OF_CHOKING"
+         }
+       ]
+     },
+     {
+       "intent": "GetListIntent"
+     },
+     {
+       "intent": "AMAZON.HelpIntent"
+     },
+     {
+       "intent": "AMAZON.CancelIntent"
+     },
+     {
+       "intent": "AMAZON.StopIntent"
+     },
+     {
+       "intent": "CommandIntent"
+     },
+     {
+       "intent": "YesIntent"
+     },
+     {
+       "intent": "FinishIntent"
+     },
+     {
+       "intent": "RestartIntent",
+       "slots": [
+         {
+           "name": "stage",
+           "type": "STAGES"
+         }
+       ]
+     },
+     {
+       "intent": "HowIntent",
+       "slots": [
+         {
+         "name": "stage",
+         "type": "STAGES"
+         }
+       ]
+     }
+   ]
+}

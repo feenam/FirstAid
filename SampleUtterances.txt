@@ -1,0 +1,25 @@
+GetHelpIntent someone is injured
+GetHelpIntent i need help with checking an injured adult
+GetHelpIntent i am bleeding
+GetHelpIntent someone is bleeding
+GetHelpIntent help with injured person
+GetHelpIntent i need help with AED
+GetHelpIntent help me with AED
+GetHelpIntent help with AED
+GetHelpIntent i need help with controlling bleeding
+GetHelpIntent i need help with stroke
+GetHelpIntent someone is bleeding
+GetHelpIntent someone is injured
+GetHelpIntent someone drank a poison
+GetHelpIntent someone hurt his neck
+GetChokingIntent i need help with choking
+GetChokingTypeIntent {ChokingType} choking
+GetCPRHelpIntent i need help with cpr
+GetListIntent what can i say
+FinishIntent stop CPR
+FinishIntent quit CPR
+YesIntent yes
+CommandIntent done
+CommandIntent ready
+RestartIntent restart {stage}
+HowIntent how do i do {stage}
